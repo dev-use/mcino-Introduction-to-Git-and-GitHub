@@ -1,6 +1,8 @@
-git checkout main
-git merge bug-fix-typo
+$ git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
 
+$ git merge bug-fix-typo
 Updating ad95b0a..da44486
 Fast-forward
  README.md | 2 +-
